@@ -1,4 +1,4 @@
-package android.freaky.id.popular_movies_stage_1;
+package yuda.freaky.id.popular_movies_stage_1;
 
 import org.junit.Test;
 
