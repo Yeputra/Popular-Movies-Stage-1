@@ -24,8 +24,6 @@ public class MainActivity extends AppCompatActivity implements MoviesListFragmen
         ButterKnife.bind(this);
         MoviesListFragment fragment= (MoviesListFragment) getFragmentManager().findFragmentById(R.id.movie_list);
         fragment.setCallback(this);
-
-
     }
 
     @Override

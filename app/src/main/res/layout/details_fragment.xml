@@ -31,8 +31,7 @@
                 android:layout_below="@id/title"
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="10dp"
-                android:adjustViewBounds="true"
-                />
+                android:adjustViewBounds="true"/>
 
             <TextView
                 android:id="@+id/year"
@@ -51,9 +50,7 @@
                 android:layout_alignLeft="@id/year"
                 android:layout_below="@id/year"
                 android:textSize="18sp"
-                android:textStyle="italic"
-                />
-
+                android:textStyle="italic"/>
 
             <TextView
                 android:id="@+id/rating"
@@ -71,6 +68,7 @@
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:text=""/>
+
         </RelativeLayout>
     </ScrollView>
 </RelativeLayout>

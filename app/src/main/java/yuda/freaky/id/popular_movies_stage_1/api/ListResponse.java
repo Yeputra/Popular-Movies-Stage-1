@@ -7,6 +7,7 @@ import java.util.List;
  */
 
 public class ListResponse {
+
     List<MovieModel> results;
     int page;
 
